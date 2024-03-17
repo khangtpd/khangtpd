@@ -1,22 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Khang from Viet Nam 🌏</h1>
 
+<hr />
+
 <h3 margin-bottom="" align='center'>A passionate Full Stack Software Engineer</h3>
 
-<a href="https://komarev.com/ghpvc/?username=khang-duy-truong-phuc&color=red">
+<a href="http://">
   <img src="https://komarev.com/ghpvc/?username=khang-duy-truong-phuc&color=red">
 </a>
 
-<ul style="margin-bottom: 16px;">
-  <li style="margin-block: 16px;">
-    <p>🔥<strong></strong>    </p>
+<ul>
+  <li><p>🔥<strong></strong></p></li>
+  <li><p>💪 </p></li>
+  <li>
+  <p>💬 My work involves various aspects of programming and software design, including algorithms, design patterns, and system architecture.</p>
   </li>
-  <li style="margin-block: 16px;">
-    <p>💪 </p>
-  </li>
-  <li style="margin-block: 16px;">
-    <p>💬 My work involves various aspects of programming and software design, including algorithms, design patterns, and system architecture.</p>
-  </li>
-  <li style="margin-block: 16px;">
+  <li>
     <p>📫 How to reach me
       <a style="text-decoration: underline;" href="mailto:phucduykhang16202@gmail.com">
         <strong>phucduykhang16202@gmail.com</strong>
