@@ -4,7 +4,7 @@
 
 <h3 margin-bottom="" align='center'>A passionate Full Stack Software Engineer</h3>
 
-<a href="http://">
+<a href="https://komarev.com/ghpvc/?username=khang-duy-truong-phuc&color=red">
   <img src="https://komarev.com/ghpvc/?username=khang-duy-truong-phuc&color=red">
 </a>
 
