@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Khang from Viet Nam 🌏</h1>
 
-<hr />
-
 <h3 margin-bottom="" align='center'>A passionate Full Stack Software Engineer</h3>
 
 <a href="http://">
