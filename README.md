@@ -4,15 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangtpd&label=Profile%20views&color=0e75b6&style=flat" alt="khangtpd" /> </p>
 
-- 🔥 I’m currently developing an innovative **management platform for a renowned agribusiness company, widely recognized and utilized by many enterprises.**
+- 🔥 I’m currently working as a **Fullstack Developer at Seventh Pitch**, where I serve as a **key team member** and contribute to developing and scaling a **School Management Platform** that currently supports **63 schools and 11,265 users**.
 
+- 🚀 My responsibilities include building and maintaining deployment workflows for **staging and production environments**, conducting **cross-team pull request reviews**, mentoring interns, and providing technical support for multiple projects across the company.
 
-- 💪 Previously, I served as a **key developer** for a **Japanese online medical consultation project**. Additionally, I contributed to **GMO-Z.com RUNSYSTEM, where spearheaded the design and development of an innovative employee management module tailored for a prominent construction firm ranked among Japan's top 10 in 2023.**
+- 🌱 I have contributed to the development of an innovative **management platform for a renowned agribusiness company**, widely recognized and used by many enterprises.
 
-- 💬 I have a strong interest in **programming and software design**, particularly in algorithms, design patterns, and system architecture.
+- 💪 Previously, I served as a **key developer** for a **Japanese online medical consultation platform**. At **GMO-Z.com RUNSYSTEM**, I helped design and develop an employee management module for a prominent construction company ranked among **Japan’s top 10 construction firms in 2023**.
 
+- 💬 I’m passionate about **programming and software design**, with a particular interest in **algorithms, design patterns, system architecture, performance optimization, and scalable back-end solutions**.
 
-- 📫 How to reach me **phucduykhang16202@gmail.com**
+- 🤝 I enjoy collaborating with cross-functional teams, solving complex technical challenges, mentoring developers, and continuously exploring emerging technologies.
+
+- 📫 How to reach me: **phucduykhang16202@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
